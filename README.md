@@ -1,3 +1,3 @@
-# AlgoCasts
+# Algorithms
 
 Repo for most asked Algorithms
